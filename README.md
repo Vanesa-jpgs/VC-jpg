@@ -34,8 +34,4 @@ Soy una desarrolladora Full Stack apasionada por el diseño web, el desarrollo f
   </a>
   <a href="https://wa.me/56940381809">
     <img src="https://img.shields.io/badge/Whatsapp-D9FBC4?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/>
-  </a>
-   <a href="https://vc-portafolio.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-F9CEF3?style=for-the-badge&logo=web&logoColor=white" alt="Portafolio"/>
-   </a>
 </div>
